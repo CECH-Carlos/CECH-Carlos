@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Carlos 👋
 
 - 🔭 Hoje trabalho com Full-Stack e desenvolvimento de software
-- 🌱 Estudando Inteligência Artificial, Desenvolvimento de Jogos e Typescript
+- 🌱 Estudando Inteligência Artificial, Desenvolvimento de Jogos, Typescript e Blockchain
 - 📫 Contrate-me no email: cdecastrohenriques@gmail.com
 - 😄 Pronouns: ele/dele
 
