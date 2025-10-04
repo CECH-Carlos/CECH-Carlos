@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Full-Stack e desenvolvimento de software
 - 🌱 Estudando Inteligência Artificial, Desenvolvimento de Jogos, Typescript e Blockchain
-- 📫 Contrate-me no email: cdecastrohenriques@gmail.com
+- 📫 Contate-me pelo email: cdecastrohenriques@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
