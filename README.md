@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Carlos 👋
 
-- 🔭 Hoje trabalho com Full-Stack e desenvolvimento de software
+- 🔭 Hoje trabalho com desenvolvimento de software e espero ingressar na área de Machine Learning
 - 🌱 Estudando Machine Learning e DeepLearning
 - 📫 Contate-me pelo email: cdecastrohenriques@gmail.com
 - 😄 Pronouns: ele/dele
